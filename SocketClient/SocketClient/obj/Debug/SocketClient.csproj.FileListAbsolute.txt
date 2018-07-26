@@ -1,0 +1,9 @@
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.FrmClient.resources
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\liqibiao\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

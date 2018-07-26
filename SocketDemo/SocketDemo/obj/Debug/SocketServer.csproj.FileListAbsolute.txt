@@ -1,0 +1,9 @@
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketServer.FrmServer.resources
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+C:\Users\liqibiao\source\repos\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
